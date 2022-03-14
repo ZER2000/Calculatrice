@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+
+
+  }
+  #calcul{
+    height: 500px;
+    width:300px;
+  }
+  button{
+    flex:1;
+    background-color: black;
+    color: rgb(91, 100, 100);
+    border:none;
+    outline: none;
+    border-radius: 50%;
+
+  }
+  button:hover{
+    background-color:  rgba(185, 204, 204, 0.794);
+  
+  }
+ 
+
+
+
+
+
